@@ -10,6 +10,10 @@ This project simulates a realistic internal administration panel backed by a lig
 [![View Live Demo](https://img.shields.io/badge/View%20Live%20Demo-1e40af?style=for-the-badge&logo=google-chrome&logoColor=white)](https://northbridge-systems-internal.onrender.com/)
 ---
 
+## Video Demo
+
+https://github.com/user-attachments/assets/a684353b-2c24-4ec9-9cf3-0c8df0c98f66
+
 ## Overview
 
 This project presents a convincing internal administration interface commonly targeted during phishing campaigns, credential harvesting, and scam operations. The application is intentionally **read-only**, **non-functional**, and **instrumented for observation**, making it suitable for:
